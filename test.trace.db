@@ -1,0 +1,18 @@
+2019-04-12 21:25:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EMPLOYEE" not found; SQL statement:
+SELECT 1 FROM EMPLOYEE [42102-196]
+2019-04-12 21:25:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "DEPARTMENT" not found; SQL statement:
+SELECT 1 FROM DEPARTMENT [42102-196]
+2019-04-12 21:25:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SEQUENCE" not found; SQL statement:
+SELECT 1 FROM SEQUENCE [42102-196]
+2019-08-01 18:43:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SECTION" not found; SQL statement:
+SELECT 1 FROM SECTION [42102-196]
+2019-08-01 18:43:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "STUDENT" not found; SQL statement:
+SELECT 1 FROM STUDENT [42102-196]
+2019-08-01 18:43:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "COURSE" not found; SQL statement:
+SELECT 1 FROM COURSE [42102-196]
